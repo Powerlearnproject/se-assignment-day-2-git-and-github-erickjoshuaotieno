@@ -83,9 +83,9 @@ Steps to create a PR:
 
 Forking creates a personal copy of someone else’s repository, while cloning creates a local copy of any repository. Forking is especially useful when:
 
-Contributing to Open-Source: Developers can experiment on a copy without affecting the original project.
+1. Contributing to Open-Source: Developers can experiment on a copy without affecting the original project.
 
-Building Independent Features: Developers can modify the codebase independently, then submit changes via a pull request.
+2. Building Independent Features: Developers can modify the codebase independently, then submit changes via a pull request.
 
 Forking promotes community contributions without granting direct write access to the main project.
 
@@ -100,11 +100,11 @@ Example: A bug report logged as an issue can be prioritized on a project board, 
 
 New users often face challenges with:
 
-Merge Conflicts: Resolve conflicts by communicating with team members and using branches for isolated development.
+1. Merge Conflicts: Resolve conflicts by communicating with team members and using branches for isolated development.
 
-Commit Quality: Avoid vague messages. Clear, concise commit messages make tracking changes easier.
+2. Commit Quality: Avoid vague messages. Clear, concise commit messages make tracking changes easier.
 
-Unauthorized Access: Use branch protection and access controls to prevent unauthorized changes in shared repositories.
+3. Unauthorized Access: Use branch protection and access controls to prevent unauthorized changes in shared repositories.
 
 Best practices include regular commits, clear documentation, and consistent use of branches for new features, fostering a smoother, more manageable collaboration experience.
 
